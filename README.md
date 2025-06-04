@@ -1,1 +1,1 @@
-# library-management
+Library Management System is a Spring Boot-based application designed to streamline the management of library operations, including book lending, returns, inventory tracking, and member management. The system helps librarians easily add/remove books and users, track lending history, check availability, and generate reports on overdue books. With secure access control using Spring Security, it ensures that only authorized users (librarians) can manage the system.
